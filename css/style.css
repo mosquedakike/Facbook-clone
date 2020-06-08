@@ -52,3 +52,17 @@ button{
 .forgot-password{
     color: #9cb4d8;
 }
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-part-one{
+    display: flex;
+}
+
+.option-gender{
+    display: flex;
+}
